@@ -15,7 +15,7 @@ They have tasked us with the following:
 
 
 ## Election Audit Results
-Below is a breakdown of the election results.
+
 
 In total 369,711 voters cast a ballot across three counties for three candidates vying for the congressional seat. This congressional district consists of three counties - Arapahoe, Denver and Jefferson. 
 
@@ -35,20 +35,12 @@ There were three candidates running in this election. Below are the results for 
 Based on these results, Diana DeGette won the popular with 272,892 total votes - 73.8% of total votes cast.
 
 ## Election-Audit Summary
-The script that we wrote to run this analysis is a solid base to run the analysis of any election that the the Colorado Board of Elections oversees. This script could handle the addition of more candidates and counties and easily tabulate the results and provide a breakdown of the results. 
+The script that we wrote to run this analysis is a solid base to run the analysis of any election that the the Colorado Board of Elections oversees. This script could handle the addition of more candidates and counties and easily tabulate the results,  provide a breakdown of the results and determine a winner. 
 
 However, if the Colorado Board of Elections were to use this script in the future, we would suggest the following modifications to provide a richer analysis: 
 
 - Add a breakdown of county results by candidate. Additional analysis on how the candidates did within each county could provide more insight on the election and potentially highlight any irregularaties. 
 - Add a flag for duplicate ballot IDs. Adding this to the script would allow for the election board to see where ballots may have been added more than once - adding more security and confidenceto the results. 
-
-
-
-
-
-
-
-## Election Audit Summary
 
 
 
